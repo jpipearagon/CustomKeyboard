@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name             = "CustomKeyboard"
-  spec.version          = "1.0.0"
+  spec.version          = "1.0.1"
   spec.summary          = "A short description of CustomKeyboard."
   spec.description      = "Framework Keyboard "
   spec.homepage         = "https://github.com/jpipearagon/CustomKeyboard"
