@@ -6,27 +6,27 @@
 	<dict>
 		<key>AccessGrantedView.nib</key>
 		<data>
-		aAA76vWjV8iHq7p3wJnoOhKzTuc=
+		X60W5GrwaVFHfcnT6Q5KxUKWGJA=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		/O9AyJkMyeWSiA3UWS+3kDEXgi4=
+		X6F1v2JvXTCOv+oNUbHAGapovg0=
 		</data>
 		<key>CopyPasteEmojiView.nib</key>
 		<data>
-		a3O7Iq+Jfzk4trQhYzNCvQfn7ds=
+		Vw5NIbDddaLtVFlBnMiCHtZxO5g=
 		</data>
 		<key>EmojiKeyboardViewController.nib</key>
 		<data>
-		HJeMeZVHpceIYkUZfyhSe6Ngefk=
+		Q9FO0qOB0yhfvWmLzcxDersc/7w=
 		</data>
 		<key>EmojiSponsorViewCell.nib</key>
 		<data>
-		BDW8xff28BA4ztNV3B0L/CRMCC0=
+		Ie8HXs5G9AONA+4XTTWfoN3RH+c=
 		</data>
 		<key>EmojiViewCell.nib</key>
 		<data>
-		J4Y513SVkIxHxap1UwbXjqEA7Gg=
+		f3+nslxOt2N3UnWoV7HlHZ4SkQU=
 		</data>
 		<key>Headers/FrameworkKeyboard-Swift.h</key>
 		<data>
@@ -42,19 +42,11 @@
 		</data>
 		<key>KeyboardAlphabeticController.nib</key>
 		<data>
-		CWV52Kthc1xaH9V3CD9fTw2E61k=
+		5pjT1P78FupNnj3IBEq6NC26cF4=
 		</data>
 		<key>KeyboardNumericViewController.nib</key>
 		<data>
-		/Kc7uyPBXEY9Ws4Tc3IgG2cZLSM=
-		</data>
-		<key>Modules/FrameworkKeyboard.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<data>
-		soVj4k70ezsH7/e22RUUOig+XB0=
-		</data>
-		<key>Modules/FrameworkKeyboard.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<data>
-		4bGr7SbFgqQZkucQSBWqXxhobYk=
+		vPvICjVnK6+TaP0T+y8R64hNkuY=
 		</data>
 		<key>Modules/FrameworkKeyboard.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -62,7 +54,7 @@
 		</data>
 		<key>Modules/FrameworkKeyboard.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		4bGr7SbFgqQZkucQSBWqXxhobYk=
+		BdeRkQmitCqFC61nDmiQDMBuhKE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,11 +62,11 @@
 		</data>
 		<key>OtherActionViewCell.nib</key>
 		<data>
-		0tjYuzehFDabJq+y4MQHnqagFrY=
+		DzJdiDlF3hj/DvfsuNkp8/dOSH8=
 		</data>
 		<key>OtherActionsViewController.nib</key>
 		<data>
-		y3Yq9a63gmEeCui/Nzd5+nr+PMI=
+		3VwvnDkQDgOdITAzxwso+e38P7g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -83,42 +75,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ut4+BkEE7UdgmE6eij/V4rmglwwZx7N84pLApB+X9k0=
+			y4grVgaBzMIDTmaDJOad3mnWS5HRtSmNeivyWQFyS2c=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pQ1/tN4YPwi2lhMizm2yQziBPhknjmMg3efagGhDirg=
+			YiQ0EFTRRxJzV9BsYe9bwROiTtBiyUlggubZ7Id5y90=
 			</data>
 		</dict>
 		<key>CopyPasteEmojiView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xQX+RduQuTUB0o+TXj9NGOJmaz3H6dIYJumpv5BZby4=
+			zaHt3Ri1rRF7CyGDMIQ/gO+0ijpv7DPTNP/ldDlJrB4=
 			</data>
 		</dict>
 		<key>EmojiKeyboardViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vJxucZJ63GJzvmLbUWv9I61fDKPU9BDWtaX72iB8cmA=
+			T9ZHxUjdLKnIYOjDpOT55PZjcv/Kz2rE5TChxvAmhh4=
 			</data>
 		</dict>
 		<key>EmojiSponsorViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BOVHexBwIw/jaQOkI90aWnsZ+RCYEp4w8TaYLn03AgI=
+			YHe4WpBHZbuD1mtbXZ4KIw8iA0wIdvFuB5Rjzw+fmRs=
 			</data>
 		</dict>
 		<key>EmojiViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XP6p02TvTZNu2/3UYFHzB/0Dn+ge40AbA9BADcoOM7w=
+			c7EAymke21miLnJYLjHfAqkJ3ORovtwxtaWQF9JYJSA=
 			</data>
 		</dict>
 		<key>Headers/FrameworkKeyboard-Swift.h</key>
@@ -139,28 +131,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TM85P0ugW2OWgO97j21kX41GygD93H3HQnIeshQJqX4=
+			iTTlGD66f6RQlx1ez/5DhqG/394dkyBnkV5H3eMZTYo=
 			</data>
 		</dict>
 		<key>KeyboardNumericViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mnbXvoSFAppZnmD594Q58vs+dT+Otti8SVU4SnApUiA=
-			</data>
-		</dict>
-		<key>Modules/FrameworkKeyboard.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mvsocynaUVNPXI9vV0vg+R5ciWZ8y1NoW48X6cerfTM=
-			</data>
-		</dict>
-		<key>Modules/FrameworkKeyboard.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1VwjVRv/AWQHIqcohy1Bv4kQMauoeQx5G6muOb4qiPQ=
+			ojBdY4YlKi6mD0fMPAIwfyPmHTHfDixZFGsvSQiPTxs=
 			</data>
 		</dict>
 		<key>Modules/FrameworkKeyboard.swiftmodule/arm64.swiftdoc</key>
@@ -174,7 +152,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1VwjVRv/AWQHIqcohy1Bv4kQMauoeQx5G6muOb4qiPQ=
+			wapatde7GFlQzgDHGwKQUUTgS0pXCDCd+/w6U/YUDX4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -188,14 +166,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cu/G5LCvFVKE1kjczGXdoHs07BMJV+rcc6UmitQ6llM=
+			+8JJh5vNxollyzYvhFHjwnMgcmzg/Zb29vNhOmOgLOY=
 			</data>
 		</dict>
 		<key>OtherActionsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iwpDinFC6/3SvRU5maYB0XUFkhCfSCLYjIFk7gXx9yU=
+			7v/xnphzQBk8AqOfqWqiSEXUS5i/u+Ga0SO//FEW+dY=
 			</data>
 		</dict>
 	</dict>

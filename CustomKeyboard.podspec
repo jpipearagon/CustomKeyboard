@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name             = "CustomKeyboard"
-  spec.version          = "1.0.1"
+  spec.version          = "1.0.2"
   spec.summary          = "A short description of CustomKeyboard."
   spec.description      = "Framework Keyboard "
   spec.homepage         = "https://github.com/jpipearagon/CustomKeyboard"
@@ -11,7 +11,6 @@ Pod::Spec.new do |spec|
   spec.author           = { "Felipe Aragon" => "faragon@brangerbriz.com" }
   spec.platform         = :ios, "11.0"
   spec.source           = { :git => "https://github.com/jpipearagon/CustomKeyboard.git", :tag => "#{spec.version}" }
-  spec.source_files     = "FrameworkTest2/**/*.{h,m,swift}"
   spec.swift_version    = "5.0"
   spec.public_header_files  = "FrameworkKeyboard.framework/Headers/*.h"
   spec.source_files         = "FrameworkKeyboard.framework/Headers/*.h"
